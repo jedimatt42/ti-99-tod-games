@@ -1,0 +1,18 @@
+Portions copyright (C) Matthew Splett <matt@cwfk.net>
+
+LICENSES TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You may do whatever you want with the portions I have modified:
+       player character graphics, 
+       quest items, 
+       weapon leveling,
+       level motifs,
+       room graphics,
+       wall textures,
+       spinners,
+       throw weapon textures,
+       and description.
+
+   1. The remaining portions of this Tunnels of Doom skin belong to Texas Instruments, 
+      and were part of the Quest for the King.
+
