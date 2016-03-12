@@ -50,7 +50,7 @@ class, and is available for party use.
 
 Files:
   fruin - file output from Fritz442 of Atariage’s Windows ToD Editor.
-  FRUINSAV - my save game, 10 levels, party of 4. 1 of each class.
   README.txt - this file.
   LICENSE.txt - honesty.
+  FRUINTOD.DSK - Disk image with FRUIN and README
 
